@@ -1,0 +1,4 @@
+[10-Apr-2023 10:50:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/rholabproducts/public_html/clients/nutrition/application/libraries/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rholabproducts/public_html/clients/nutrition/application/controllers/User.php on line 2
+[27-Apr-2023 07:11:18 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/rholabproducts/public_html/clients/nutrition/application/controllers/Admin.php on line 161
+[27-Apr-2023 07:12:50 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/rholabproducts/public_html/clients/nutrition/application/controllers/Admin.php on line 161
+[27-Apr-2023 07:15:03 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/rholabproducts/public_html/clients/nutrition/application/controllers/Admin.php on line 161
